@@ -1,0 +1,11 @@
+.peliCard{
+    list-style: none;
+    font-size: 1.5rem;
+    text-align: center;
+    color: aliceblue;
+}
+
+.peliImage{
+    border-radius: 10px;
+    background-color: azure;
+}
